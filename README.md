@@ -18,5 +18,7 @@ Edit settings in main.py, then run it
 # Todo
 Switch to a more reliable anti-captcha service
 
+Forward data to Maja Hočevar for in-depth socio-linguistic analysis
+
 # Far Todo
 If lists need to be generated faster, employ parallelism and proxies
